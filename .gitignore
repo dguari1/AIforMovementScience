@@ -11,4 +11,8 @@ wwnvw28n2m-1.zip
 /Assignments/.ipynb_checkpoints
 /Assignments/old_versions
 /runs
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+*-checkpoint.ipynb
 
